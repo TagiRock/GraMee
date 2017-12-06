@@ -33,4 +33,5 @@ Things you may want to cover:
 ### サーバを立てる
 `$ rails server`
 
-あとは<http://localhost:3000/>にアクセスして確認
+あとは<http://localhost:3002/>にアクセスして確認
+
