@@ -28,9 +28,9 @@ Things you may want to cover:
 ## How to use
 
 ### クローンしたら以下のコマンドを実行
-'$ bundle install'
+`$ bundle install`
 
 ### サーバを立てる
-'$ rails server'
+`$ rails server`
 
 あとは<http://localhost:3000/>にアクセスして確認
