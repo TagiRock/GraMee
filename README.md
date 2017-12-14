@@ -5,9 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version：ruby2.3.4
-
-* Rails version：5.1.4
+* Ruby version
 
 * System dependencies
 
@@ -24,14 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-## How to use
-
-### クローンしたら以下のコマンドを実行
-`$ bundle install`
-
-### サーバを立てる
-`$ rails server`
-
-あとは<http://localhost:3002/>にアクセスして確認
-
